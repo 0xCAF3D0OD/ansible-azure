@@ -1,0 +1,4402 @@
+[
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202204200",
+    "version": "22.04.202204200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205060",
+    "version": "22.04.202205060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205280",
+    "version": "22.04.202205280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206040",
+    "version": "22.04.202206040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206090",
+    "version": "22.04.202206090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206160",
+    "version": "22.04.202206160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206220",
+    "version": "22.04.202206220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202207060",
+    "version": "22.04.202207060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202207121",
+    "version": "22.04.202207121"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202208100",
+    "version": "22.04.202208100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202209080",
+    "version": "22.04.202209080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202209211",
+    "version": "22.04.202209211"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202210110",
+    "version": "22.04.202210110"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202210140",
+    "version": "22.04.202210140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202210180",
+    "version": "22.04.202210180"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202211011",
+    "version": "22.04.202211011"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202211160",
+    "version": "22.04.202211160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202212010",
+    "version": "22.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202212070",
+    "version": "22.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202212140",
+    "version": "22.04.202212140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202301050",
+    "version": "22.04.202301050"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202301100",
+    "version": "22.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202301140",
+    "version": "22.04.202301140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202302140",
+    "version": "22.04.202302140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202302280",
+    "version": "22.04.202302280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202303090",
+    "version": "22.04.202303090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202303290",
+    "version": "22.04.202303290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202304200",
+    "version": "22.04.202304200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202304280",
+    "version": "22.04.202304280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202305160",
+    "version": "22.04.202305160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202306010",
+    "version": "22.04.202306010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202306160",
+    "version": "22.04.202306160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202306200",
+    "version": "22.04.202306200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202307010",
+    "version": "22.04.202307010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202307250",
+    "version": "22.04.202307250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202308140",
+    "version": "22.04.202308140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202309080",
+    "version": "22.04.202309080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202309190",
+    "version": "22.04.202309190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202310040",
+    "version": "22.04.202310040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202310210",
+    "version": "22.04.202310210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202310251",
+    "version": "22.04.202310251"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202310260",
+    "version": "22.04.202310260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202311010",
+    "version": "22.04.202311010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202312010",
+    "version": "22.04.202312010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202312060",
+    "version": "22.04.202312060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202401191",
+    "version": "22.04.202401191"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202401250",
+    "version": "22.04.202401250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202402020",
+    "version": "22.04.202402020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202402071",
+    "version": "22.04.202402071"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202402080",
+    "version": "22.04.202402080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202402270",
+    "version": "22.04.202402270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202403010",
+    "version": "22.04.202403010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202403080",
+    "version": "22.04.202403080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202403280",
+    "version": "22.04.202403280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202404090",
+    "version": "22.04.202404090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202405010",
+    "version": "22.04.202405010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202405140",
+    "version": "22.04.202405140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202406140",
+    "version": "22.04.202406140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202406260",
+    "version": "22.04.202406260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202406270",
+    "version": "22.04.202406270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202406290",
+    "version": "22.04.202406290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202407010",
+    "version": "22.04.202407010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202407160",
+    "version": "22.04.202407160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202407250",
+    "version": "22.04.202407250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202408010",
+    "version": "22.04.202408010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202408300",
+    "version": "22.04.202408300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202409040",
+    "version": "22.04.202409040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202409130",
+    "version": "22.04.202409130"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202409260",
+    "version": "22.04.202409260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202410020",
+    "version": "22.04.202410020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202501081",
+    "version": "22.04.202501081"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202502190",
+    "version": "22.04.202502190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202502210",
+    "version": "22.04.202502210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202502280",
+    "version": "22.04.202502280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202503240",
+    "version": "22.04.202503240"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202504040",
+    "version": "22.04.202504040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202504080",
+    "version": "22.04.202504080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202504250",
+    "version": "22.04.202504250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202505160",
+    "version": "22.04.202505160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202505210",
+    "version": "22.04.202505210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202506120",
+    "version": "22.04.202506120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202506200",
+    "version": "22.04.202506200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202507150",
+    "version": "22.04.202507150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202510150",
+    "version": "22.04.202510150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202206220",
+    "version": "22.04.202206220"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202207060",
+    "version": "22.04.202207060"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202207121",
+    "version": "22.04.202207121"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202208100",
+    "version": "22.04.202208100"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202209080",
+    "version": "22.04.202209080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202209211",
+    "version": "22.04.202209211"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202210110",
+    "version": "22.04.202210110"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202210140",
+    "version": "22.04.202210140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202210180",
+    "version": "22.04.202210180"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202211011",
+    "version": "22.04.202211011"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202211160",
+    "version": "22.04.202211160"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202212010",
+    "version": "22.04.202212010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202212070",
+    "version": "22.04.202212070"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202212140",
+    "version": "22.04.202212140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202301050",
+    "version": "22.04.202301050"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202301100",
+    "version": "22.04.202301100"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202301140",
+    "version": "22.04.202301140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202302080",
+    "version": "22.04.202302080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202302140",
+    "version": "22.04.202302140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202302280",
+    "version": "22.04.202302280"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202303090",
+    "version": "22.04.202303090"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202303290",
+    "version": "22.04.202303290"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202304200",
+    "version": "22.04.202304200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202304280",
+    "version": "22.04.202304280"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202305160",
+    "version": "22.04.202305160"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202306010",
+    "version": "22.04.202306010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202306160",
+    "version": "22.04.202306160"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202306200",
+    "version": "22.04.202306200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202307010",
+    "version": "22.04.202307010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202307250",
+    "version": "22.04.202307250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202308140",
+    "version": "22.04.202308140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202309080",
+    "version": "22.04.202309080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202309190",
+    "version": "22.04.202309190"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202310040",
+    "version": "22.04.202310040"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202310210",
+    "version": "22.04.202310210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202310251",
+    "version": "22.04.202310251"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202310260",
+    "version": "22.04.202310260"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202311010",
+    "version": "22.04.202311010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202312010",
+    "version": "22.04.202312010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202312060",
+    "version": "22.04.202312060"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202401191",
+    "version": "22.04.202401191"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202401250",
+    "version": "22.04.202401250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202402020",
+    "version": "22.04.202402020"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202402071",
+    "version": "22.04.202402071"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202402080",
+    "version": "22.04.202402080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202402270",
+    "version": "22.04.202402270"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202403010",
+    "version": "22.04.202403010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202403080",
+    "version": "22.04.202403080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202403280",
+    "version": "22.04.202403280"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202404090",
+    "version": "22.04.202404090"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202405010",
+    "version": "22.04.202405010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202405140",
+    "version": "22.04.202405140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202406140",
+    "version": "22.04.202406140"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202406260",
+    "version": "22.04.202406260"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202406270",
+    "version": "22.04.202406270"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202406290",
+    "version": "22.04.202406290"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202407010",
+    "version": "22.04.202407010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202407160",
+    "version": "22.04.202407160"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202407250",
+    "version": "22.04.202407250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202408010",
+    "version": "22.04.202408010"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202408300",
+    "version": "22.04.202408300"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202409040",
+    "version": "22.04.202409040"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202409130",
+    "version": "22.04.202409130"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202409260",
+    "version": "22.04.202409260"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202410020",
+    "version": "22.04.202410020"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202501081",
+    "version": "22.04.202501081"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202502190",
+    "version": "22.04.202502190"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202502210",
+    "version": "22.04.202502210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202502280",
+    "version": "22.04.202502280"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202503240",
+    "version": "22.04.202503240"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202504040",
+    "version": "22.04.202504040"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202504080",
+    "version": "22.04.202504080"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202504250",
+    "version": "22.04.202504250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202505160",
+    "version": "22.04.202505160"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202505210",
+    "version": "22.04.202505210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202506120",
+    "version": "22.04.202506120"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202506200",
+    "version": "22.04.202506200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202507150",
+    "version": "22.04.202507150"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202510150",
+    "version": "22.04.202510150"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-arm64:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202204200",
+    "version": "22.04.202204200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202205060",
+    "version": "22.04.202205060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202205280",
+    "version": "22.04.202205280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202206040",
+    "version": "22.04.202206040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202206090",
+    "version": "22.04.202206090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202206160",
+    "version": "22.04.202206160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202206220",
+    "version": "22.04.202206220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202207060",
+    "version": "22.04.202207060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202207121",
+    "version": "22.04.202207121"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202208100",
+    "version": "22.04.202208100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202209080",
+    "version": "22.04.202209080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202209211",
+    "version": "22.04.202209211"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202210110",
+    "version": "22.04.202210110"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202210140",
+    "version": "22.04.202210140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202210180",
+    "version": "22.04.202210180"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202211011",
+    "version": "22.04.202211011"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202211160",
+    "version": "22.04.202211160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202212010",
+    "version": "22.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202212070",
+    "version": "22.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202212140",
+    "version": "22.04.202212140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202301050",
+    "version": "22.04.202301050"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202301100",
+    "version": "22.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202301140",
+    "version": "22.04.202301140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202302140",
+    "version": "22.04.202302140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202302280",
+    "version": "22.04.202302280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202303090",
+    "version": "22.04.202303090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202303290",
+    "version": "22.04.202303290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202304200",
+    "version": "22.04.202304200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202304280",
+    "version": "22.04.202304280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202305160",
+    "version": "22.04.202305160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202306010",
+    "version": "22.04.202306010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202306160",
+    "version": "22.04.202306160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202306200",
+    "version": "22.04.202306200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202307010",
+    "version": "22.04.202307010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202307250",
+    "version": "22.04.202307250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202308140",
+    "version": "22.04.202308140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202309080",
+    "version": "22.04.202309080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202309190",
+    "version": "22.04.202309190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202310040",
+    "version": "22.04.202310040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202310210",
+    "version": "22.04.202310210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202310251",
+    "version": "22.04.202310251"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202310260",
+    "version": "22.04.202310260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202311010",
+    "version": "22.04.202311010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202312010",
+    "version": "22.04.202312010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202312060",
+    "version": "22.04.202312060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202401191",
+    "version": "22.04.202401191"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202401250",
+    "version": "22.04.202401250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202402020",
+    "version": "22.04.202402020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202402071",
+    "version": "22.04.202402071"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202402080",
+    "version": "22.04.202402080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202402270",
+    "version": "22.04.202402270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202403010",
+    "version": "22.04.202403010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202403080",
+    "version": "22.04.202403080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202403280",
+    "version": "22.04.202403280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202404090",
+    "version": "22.04.202404090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202405010",
+    "version": "22.04.202405010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202405140",
+    "version": "22.04.202405140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202406140",
+    "version": "22.04.202406140"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202406260",
+    "version": "22.04.202406260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202406270",
+    "version": "22.04.202406270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202406290",
+    "version": "22.04.202406290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202407010",
+    "version": "22.04.202407010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202407160",
+    "version": "22.04.202407160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202407250",
+    "version": "22.04.202407250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202408010",
+    "version": "22.04.202408010"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202408300",
+    "version": "22.04.202408300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202409040",
+    "version": "22.04.202409040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202409130",
+    "version": "22.04.202409130"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202409260",
+    "version": "22.04.202409260"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202410020",
+    "version": "22.04.202410020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202501081",
+    "version": "22.04.202501081"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202502190",
+    "version": "22.04.202502190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202502210",
+    "version": "22.04.202502210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202502280",
+    "version": "22.04.202502280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202503240",
+    "version": "22.04.202503240"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202504040",
+    "version": "22.04.202504040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202504080",
+    "version": "22.04.202504080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202504250",
+    "version": "22.04.202504250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202505160",
+    "version": "22.04.202505160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202505210",
+    "version": "22.04.202505210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202506120",
+    "version": "22.04.202506120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202506200",
+    "version": "22.04.202506200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202507150",
+    "version": "22.04.202507150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202510150",
+    "version": "22.04.202510150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy",
+    "publisher": "Canonical",
+    "sku": "22_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy:22_04-lts-gen2:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202211080",
+    "version": "22.04.202211080"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202211100",
+    "version": "22.04.202211100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202211160",
+    "version": "22.04.202211160"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202507250",
+    "version": "22.04.202507250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202507290",
+    "version": "22.04.202507290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508050",
+    "version": "22.04.202508050"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508150",
+    "version": "22.04.202508150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508190",
+    "version": "22.04.202508190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508200",
+    "version": "22.04.202508200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508210",
+    "version": "22.04.202508210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508220",
+    "version": "22.04.202508220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202508240",
+    "version": "22.04.202508240"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202510210",
+    "version": "22.04.202510210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202511210",
+    "version": "22.04.202511210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202511220",
+    "version": "22.04.202511220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202511250",
+    "version": "22.04.202511250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512030",
+    "version": "22.04.202512030"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512060",
+    "version": "22.04.202512060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512090",
+    "version": "22.04.202512090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512110",
+    "version": "22.04.202512110"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512120",
+    "version": "22.04.202512120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512180",
+    "version": "22.04.202512180"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601100",
+    "version": "22.04.202601100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601130",
+    "version": "22.04.202601130"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601150",
+    "version": "22.04.202601150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601200",
+    "version": "22.04.202601200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601210",
+    "version": "22.04.202601210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601230",
+    "version": "22.04.202601230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601270",
+    "version": "22.04.202601270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602030",
+    "version": "22.04.202602030"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602040",
+    "version": "22.04.202602040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602060",
+    "version": "22.04.202602060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602190",
+    "version": "22.04.202602190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602200",
+    "version": "22.04.202602200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602210",
+    "version": "22.04.202602210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602230",
+    "version": "22.04.202602230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602270",
+    "version": "22.04.202602270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202602280",
+    "version": "22.04.202602280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202603040",
+    "version": "22.04.202603040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202603060",
+    "version": "22.04.202603060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts:22.04.202603110",
+    "version": "22.04.202603110"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202507250",
+    "version": "22.04.202507250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202507290",
+    "version": "22.04.202507290"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508050",
+    "version": "22.04.202508050"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508150",
+    "version": "22.04.202508150"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508190",
+    "version": "22.04.202508190"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508200",
+    "version": "22.04.202508200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508210",
+    "version": "22.04.202508210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508220",
+    "version": "22.04.202508220"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202508240",
+    "version": "22.04.202508240"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202510210",
+    "version": "22.04.202510210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202511210",
+    "version": "22.04.202511210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202511220",
+    "version": "22.04.202511220"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202511250",
+    "version": "22.04.202511250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512030",
+    "version": "22.04.202512030"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512060",
+    "version": "22.04.202512060"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512110",
+    "version": "22.04.202512110"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512120",
+    "version": "22.04.202512120"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512180",
+    "version": "22.04.202512180"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601100",
+    "version": "22.04.202601100"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601130",
+    "version": "22.04.202601130"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601150",
+    "version": "22.04.202601150"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601200",
+    "version": "22.04.202601200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601210",
+    "version": "22.04.202601210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601230",
+    "version": "22.04.202601230"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601270",
+    "version": "22.04.202601270"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602030",
+    "version": "22.04.202602030"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602040",
+    "version": "22.04.202602040"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602060",
+    "version": "22.04.202602060"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602190",
+    "version": "22.04.202602190"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602200",
+    "version": "22.04.202602200"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602210",
+    "version": "22.04.202602210"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602230",
+    "version": "22.04.202602230"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602270",
+    "version": "22.04.202602270"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202602280",
+    "version": "22.04.202602280"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202603040",
+    "version": "22.04.202603040"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202603060",
+    "version": "22.04.202603060"
+  },
+  {
+    "architecture": "Arm64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-arm64",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-arm64:22.04.202603110",
+    "version": "22.04.202603110"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202207060",
+    "version": "22.04.202207060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202507250",
+    "version": "22.04.202507250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202507290",
+    "version": "22.04.202507290"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202507300",
+    "version": "22.04.202507300"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508050",
+    "version": "22.04.202508050"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508150",
+    "version": "22.04.202508150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508190",
+    "version": "22.04.202508190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508200",
+    "version": "22.04.202508200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508210",
+    "version": "22.04.202508210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508220",
+    "version": "22.04.202508220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202508240",
+    "version": "22.04.202508240"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202510020",
+    "version": "22.04.202510020"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202510210",
+    "version": "22.04.202510210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202510230",
+    "version": "22.04.202510230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202511210",
+    "version": "22.04.202511210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202511220",
+    "version": "22.04.202511220"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202511250",
+    "version": "22.04.202511250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512030",
+    "version": "22.04.202512030"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512060",
+    "version": "22.04.202512060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512090",
+    "version": "22.04.202512090"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512110",
+    "version": "22.04.202512110"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512120",
+    "version": "22.04.202512120"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512180",
+    "version": "22.04.202512180"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202512181",
+    "version": "22.04.202512181"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601100",
+    "version": "22.04.202601100"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601130",
+    "version": "22.04.202601130"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601150",
+    "version": "22.04.202601150"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601200",
+    "version": "22.04.202601200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601210",
+    "version": "22.04.202601210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601230",
+    "version": "22.04.202601230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601270",
+    "version": "22.04.202601270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202601310",
+    "version": "22.04.202601310"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602030",
+    "version": "22.04.202602030"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602040",
+    "version": "22.04.202602040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602060",
+    "version": "22.04.202602060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602190",
+    "version": "22.04.202602190"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602200",
+    "version": "22.04.202602200"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602210",
+    "version": "22.04.202602210"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602230",
+    "version": "22.04.202602230"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602250",
+    "version": "22.04.202602250"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602270",
+    "version": "22.04.202602270"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202602280",
+    "version": "22.04.202602280"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202603040",
+    "version": "22.04.202603040"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202603060",
+    "version": "22.04.202603060"
+  },
+  {
+    "architecture": "x64",
+    "imageDeprecationStatus": {
+      "imageState": "Active"
+    },
+    "offer": "0001-com-ubuntu-server-jammy-daily",
+    "publisher": "Canonical",
+    "sku": "22_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-jammy-daily:22_04-daily-lts-gen2:22.04.202603110",
+    "version": "22.04.202603110"
+  }
+]

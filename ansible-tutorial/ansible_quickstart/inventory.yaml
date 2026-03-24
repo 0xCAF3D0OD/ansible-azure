@@ -1,0 +1,31 @@
+Vaud:
+  hosts:
+    Vaud-host:
+      ansible_host: localhost
+      ansible_port: 2221
+      ansible_user: root
+      ansible_password: root
+      ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+Berne:
+  hosts:
+    Berne-host:
+      ansible_host: localhost
+      ansible_port: 2222
+      ansible_user: root
+      ansible_password: root
+      ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+Zurich:
+  hosts:
+    Zurich-host:
+      ansible_host: localhost
+      ansible_port: 2223
+      ansible_user: root
+      ansible_password: root
+      ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+
+Switzerland:
+  children:
+    Vaud:
+    Berne:
+    Zurich:
+
