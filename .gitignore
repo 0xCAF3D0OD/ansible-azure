@@ -37,3 +37,10 @@ override.tf.json
 terraform.rc
 
 context/
+
+.idea/
+.DS_Store
+.env
+node_modules
+archives/
+*.png

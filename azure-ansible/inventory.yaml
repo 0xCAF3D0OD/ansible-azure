@@ -1,0 +1,13 @@
+all:
+  hosts:
+    vm-1:
+      ansible_host: 20.160.158.48
+    vm-2:
+      ansible_host: 20.71.116.56
+
+  vars:
+    ansible_become: yes
+    ansible_port: 22
+    ansible_user: adminuser
+    ansible_ssh_private_key_file: ~/.ssh/azure_ssh_key.pem
+    ansible_ssh_common_args: '-o StrictHostKeyChecking=no'

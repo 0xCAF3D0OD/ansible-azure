@@ -23,7 +23,7 @@ variable "vm_size" {
 }
 
 variable "pub_key" {
-  description = "Private key for accessing ssh"
+  description = "Public key for accessing ssh"
   type        = string
   default     = "~/.ssh/azure_ssh_key.pub"
 }

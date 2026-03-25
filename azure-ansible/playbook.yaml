@@ -1,0 +1,53 @@
+- name: Install docker and SSL in VMs
+  hosts: all
+  become: yes
+
+  roles:
+    - geerlingguy.docker
+
+  tasks:
+    # 0. Créer le dossier d'abord (sinon les tâches suivantes échouent)
+    - name: Create SSL directory
+      ansible.builtin.file:
+        path: /home/adminuser/ssl
+        state: directory
+        mode: '0755'
+
+    - name: 1. Generate Private Key (SANS mot de passe pour Ansible)
+      community.crypto.openssl_privatekey:
+        path: /home/adminuser/ssl/key.pem
+        type: RSA
+        size: 4096
+
+    - name: 2. Create Certificate Signing Request (CSR)
+      community.crypto.openssl_csr_pipe:
+        privatekey_path: /home/adminuser/ssl/key.pem
+        common_name: "localhost" # Plus simple pour tes tests Azure
+      register: csr
+
+    - name: 3. Create Self-Signed Certificate
+      community.crypto.x509_certificate:
+        path: /home/adminuser/ssl/cert.pem
+        csr_content: "{{ csr.csr }}"
+        privatekey_path: /home/adminuser/ssl/key.pem
+        provider: selfsigned
+
+    - name: Ensure docker is installed
+      ansible.builtin.service:
+        name: docker
+        state: started
+        enabled: yes
+
+    - name: Copy project files to VM
+      ansible.builtin.copy:
+        src: "{{ item }}"
+        dest: "/home/adminuser/"
+        mode: '0644'
+      loop:
+        - roles/docker-compose.yml
+        - roles/nginx.conf
+
+    - name: Run Docker Compose
+      community.docker.docker_compose_v2:
+        project_src: "/home/adminuser/"
+        state: present

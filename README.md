@@ -54,7 +54,7 @@ small project for testing capacity
 
 
 
-**Solution:** Add `sku = “Standard”` to the Public IP resource.
+**Solution:** Add `sku = "Standard"` to the Public IP resource.
 
 ---
 
@@ -81,17 +81,43 @@ Solution: Look up the correct SKU in Azure (az vm image list...)
 
 ```hcl
 # variables.tf
-vm_size = “Standard_D2als_v7”  # Gen 2
+vm_size = "Standard_D2als_v7"  # Gen 2
 
-# vm.tf
+# compute.tf
 source_image_reference {
-  publisher = “Canonical”
-  offer     = “0001-com-ubuntu-server-jammy-daily”  # Daily = Gen 2!
-  sku       = “22_04-daily-lts-gen2”                # Explicitly Gen 2
-  version   = “latest”
+  publisher = "Canonical"
+  offer     = "0001-com-ubuntu-server-jammy-daily"  # Daily = Gen 2!
+  sku       = "22_04-daily-lts-gen2"                # Explicitly Gen 2
+  version   = "latest"
 }
 
-resource “azurerm_public_ip” “pip” {
-  sku = “Standard”  # Not Basic!
+resource "azurerm_public_ip" "pip" {
+  sku = "Standard"  # Not Basic!
 }
 ```
+
+---
+
+### **❌ Issue 7: Bad access to vm via ssh**
+
+Why: public and private key are stocked in .ssh folder at the root from terminal, be aware to have:
+- id_rsa.pub
+- id_rsa.pem
+
+In .ssh folder, it's critical otherwise the connection will fail, be sure that the **ssh private key can be readed**
+otherwise it will also fail with:
+
+```terminaloutput
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/Users/exemple/.ssh/private_ssh_key.pem' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/Users/exemple/.ssh/private_ssh_key.pem": bad permissions
+debug1: No more authentication methods to try.
+adminuser@ip.address: Permission denied (publickey).
+...
+```
+
+add rights to the file with: `chmod +400 "/Users/exemple/.ssh/private_ssh_key.pem"`
