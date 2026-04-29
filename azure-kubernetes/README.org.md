@@ -1,7 +1,3 @@
-**Oui, c'est Kubernetes qui gère les variables.**
-
-Laisse-moi te l'expliquer simplement:
-
 ## **Comment ça marche**
 
 ```
