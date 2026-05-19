@@ -1,25 +1,25 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: backend-deployment
+  name: frontend-deployment
   namespace: dev
   labels:
-    app: fastapi
+    app: Vue-vite
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
-      app: fastapi
+      app: Vue-vite
   template:
     metadata:
       labels:
-        app: fastapi
+        app: Vue-vite
     spec:
       containers:
-        - name: fastapi
-          image: ghcr.io/0xCAF3D00D/edu-backend:sha256-becaad55c7c456a71d3307b78018ecda1ce8a24ff3f94648bda961e572455398
+        - name: Vue-vite
+          image: ghcr.io/0xcaf3d0od/edu-frontend:sha256-2b0848044acc83fd934409a02b7bd96cf579073a7053546d298585135d8063bc
           ports:
-            - containerPort: 8000
+            - containerPort: 5173
           envFrom:
             - configMapRef:
                 name: educhat-config
