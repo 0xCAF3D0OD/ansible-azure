@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-deployment
+  labels:
+    app: fastapi
+  spec:
+    replicas: 2
+    selector:
+      matchLabels:
+        app: fastapi
+    template:
+      metadata:
+        labels:
+          app: fastapi
+      spec:
+        containers:
+          - name: fastapi
+            image: ghcr.io/0xCAF3D00D/edu-backend:sha256-becaad55c7c456a71d3307b78018ecda1ce8a24ff3f94648bda961e572455398
+            ports:
+              - containerPort: 8000
+            envFrom:
+              - configMapRef:
+                  name: educhat-config
+              - secretsRef:
+                  name: educhat-secret
+            resources:
+              requests:
+                memory: "128Mi"
+                cpu: "100m"
+              limits:
+                memory: "256Mi"
+                cpu: "500m"

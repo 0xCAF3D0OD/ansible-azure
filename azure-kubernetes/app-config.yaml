@@ -1,8 +1,24 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: app-settings
-data:
-  APP_ENV: production
-  LOG_LEVEL: info
-  MAX_CONNECTIONS: "100"
+  name: educhat-config
+  namespace: default
+stringData:
+  # Frontend
+  VUEJS_PORT: "5173"
+
+  # Backend
+  FASTAPI_HOST: "edu-fastapi-host"
+  FASTAPI_PORT: "8000"
+
+  # Redis
+  REDIS_HOST: "edu-redis-host"
+  REDIS_PORT: "6379"
+
+  # PostgreSQL
+  POSTGRES_HOST: "edu-pg-host"
+  POSTGRES_DB: "educhat_db"
+  POSTGRES_PORT: "5432"
+
+  PLAYWRIGHT_REDIS_HOST: REDIS_HOST
+  PLAYWRIGHT_PG_HOST: PG_HOST
