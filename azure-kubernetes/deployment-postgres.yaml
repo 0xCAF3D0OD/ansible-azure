@@ -1,0 +1,23 @@
+apiVersion: app/v1
+kind: Deployment
+metadata:
+  name: postgres-deployment
+  namespace: dev
+  labels:
+    app: postgres
+spec:
+  replicas: 2
+  selector:
+    matchLabel:
+      app: postgres
+  template:
+    metadata:
+      label:
+        app: postgres
+    spec:
+      container:
+        name: postgres
+        image: ghcr.io/0xcaf3d0od/edu-database:sha256-de7c83833408670e87209ac84e207a4cc0a0ad37108a5f05d134b76740eaffb3
+        port:
+          - containerPort: 5432
+
