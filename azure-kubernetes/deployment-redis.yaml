@@ -1,10 +1,9 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: backend-deployment
-  namespace: dev
+  name: edu-redis
   labels:
-    app: &app-name fastapi
+    app: &app-name redis
 spec:
   replicas: 2
   selector:
@@ -12,14 +11,16 @@ spec:
       app: *app-name
   template:
     metadata:
+      name: *app-name
       labels:
         app: *app-name
     spec:
       containers:
         - name: *app-name
-          image: ghcr.io/0xcaf3d0od/edu-backend:sha256-32ce3795f74637f2e88bd9dfa1cf5dec78ee090bdf0f0446309e424f6b20c4d4
+          image: redis/redis-stack-server:latest
+          imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 8000
+            - containerPort: 5432
               protocol: TCP
           envFrom:
             - configMapRef:
@@ -33,3 +34,5 @@ spec:
             limits:
               memory: "256Mi"
               cpu: "500m"
+      restartPolicy: Always
+      

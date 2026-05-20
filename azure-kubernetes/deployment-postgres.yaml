@@ -1,23 +1,35 @@
-apiVersion: app/v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: postgres-deployment
   namespace: dev
   labels:
-    app: postgres
+    - app: &app-name postgres
 spec:
   replicas: 2
   selector:
-    matchLabel:
-      app: postgres
+    matchLabels:
+      app: *app-name
   template:
     metadata:
-      label:
-        app: postgres
+      labels:
+        app: *app-name
     spec:
-      container:
-        name: postgres
-        image: ghcr.io/0xcaf3d0od/edu-database:sha256-de7c83833408670e87209ac84e207a4cc0a0ad37108a5f05d134b76740eaffb3
-        port:
-          - containerPort: 5432
+      containers:
+        - name: *app-name
+          image: ghcr.io/0xcaf3d0od/edu-database:sha256-de7c83833408670e87209ac84e207a4cc0a0ad37108a5f05d134b76740eaffb3
+          ports:
+            - containerPort: 5432
+          envFrom:
+            - configMapRef:
+                name: educhat-config
+            - secretRef:
+                name: educhat-secret
+          resources:
+            requests:
+              memory: "128Mi"
+              cpu: "100m"
+            limits:
+              memory: "256Mi"
+              cpu: "500m"
 
