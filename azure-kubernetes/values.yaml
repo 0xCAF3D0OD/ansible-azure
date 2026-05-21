@@ -1,0 +1,55 @@
+# =====================
+# GLOBAL
+# =====================
+namespace: dev
+
+# =====================
+# SERVICES NAMES (source de vérité unique)
+# =====================
+services:
+  backend: edu-service-backend
+  frontend: edu-service-frontend
+  postgres: edu-service-postgres
+  redis: edu-service-redis
+
+# =====================
+# PORTS
+# =====================
+ports:
+  backend: 8000
+  frontend: 5173
+  postgres: 5432
+  redis: 6379
+
+# =====================
+# IMAGES
+# =====================
+images:
+  backend: ghcr.io/0xcaf3d0od/edu-backend:latest
+  frontend: ghcr.io/0xcaf3d0od/edu-frontend:latest
+  database: ghcr.io/0xcaf3d0od/edu-database:latest
+  redis: redis/redis-stack-server:latest
+
+# =====================
+# REPLICAS
+# =====================
+replicas:
+  backend: 2
+  frontend: 1
+  postgres: 1
+  redis: 1
+
+# =====================
+# CONFIG (remplace app-config.yaml)
+# =====================
+config:
+  postgres:
+    db: educhat_db
+
+# =====================
+# SECRETS (remplace app-secrets.yaml)
+# =====================
+secrets:
+  postgres:
+    user: kevin
+    password: iamk3.0
