@@ -4,19 +4,19 @@ metadata:
   name: backend-deployment
   namespace: dev
   labels:
-    app: &app-name fastapi
+    app: &appName fastapi
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: *app-name
+      app: *appName
   template:
     metadata:
       labels:
-        app: *app-name
+        app: *appName
     spec:
       containers:
-        - name: *app-name
+        - name: *appName
           image: ghcr.io/0xcaf3d0od/edu-backend:sha256-32ce3795f74637f2e88bd9dfa1cf5dec78ee090bdf0f0446309e424f6b20c4d4
           ports:
             - containerPort: 8000

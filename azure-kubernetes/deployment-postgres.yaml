@@ -4,19 +4,21 @@ metadata:
   name: postgres-deployment
   namespace: dev
   labels:
-    - app: &app-name postgres
+    app: &appName postgres
 spec:
-  replicas: 2
+  replicas: 1
+  # - PostgreSQL n'est pas conçu pour scaler horizontalement.
+  # - Lancer 2 replicas qui écrivent sur le même volume = corruption de données.
   selector:
     matchLabels:
-      app: *app-name
+      app: *appName
   template:
     metadata:
       labels:
-        app: *app-name
+        app: *appName
     spec:
       containers:
-        - name: *app-name
+        - name: *appName
           image: ghcr.io/0xcaf3d0od/edu-database:sha256-de7c83833408670e87209ac84e207a4cc0a0ad37108a5f05d134b76740eaffb3
           ports:
             - containerPort: 5432

@@ -2,8 +2,8 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: educhat-config
-  namespace: default
-stringData:
+  namespace: dev
+data:
   # Frontend
   VUEJS_PORT: "5173"
 
@@ -20,5 +20,5 @@ stringData:
   POSTGRES_DB: "educhat_db"
   POSTGRES_PORT: "5432"
 
-  PLAYWRIGHT_REDIS_HOST: REDIS_HOST
-  PLAYWRIGHT_PG_HOST: PG_HOST
+  PLAYWRIGHT_REDIS_HOST: "edu-redis-host"
+  PLAYWRIGHT_PG_HOST: "edu-pg-host"

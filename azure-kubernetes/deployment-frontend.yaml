@@ -4,19 +4,19 @@ metadata:
   name: frontend-deployment
   namespace: dev
   labels:
-    app: Vue-vite
+    app: &appName Vue-vite
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: Vue-vite
+      app: *appName
   template:
     metadata:
       labels:
-        app: Vue-vite
+        app: *appName
     spec:
       containers:
-        - name: Vue-vite
+        - name: *appName
           image: ghcr.io/0xcaf3d0od/edu-frontend:sha256-2b0848044acc83fd934409a02b7bd96cf579073a7053546d298585135d8063bc
           ports:
             - containerPort: 5173

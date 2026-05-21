@@ -2,25 +2,26 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: edu-redis
+  namespace: dev
   labels:
-    app: &app-name redis
+    app: &appName redis
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: *app-name
+      app: *appName
   template:
     metadata:
-      name: *app-name
+      name: *appName
       labels:
-        app: *app-name
+        app: *appName
     spec:
       containers:
-        - name: *app-name
+        - name: *appName
           image: redis/redis-stack-server:latest
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 5432
+            - containerPort: 6379
               protocol: TCP
           envFrom:
             - configMapRef:

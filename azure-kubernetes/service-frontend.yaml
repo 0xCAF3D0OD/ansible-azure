@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: edu-service-frontend
+spec:
+  selector:
+    app: edu-service-frontend
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5173
+  type: NodePort
+  
