@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: postgres-deployment
+  name: "{{ .Values.app.name }}-{{ .Values.deployments.postgres }}"
   namespace: {{ .Values.namespace }}
   labels:
     app: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"

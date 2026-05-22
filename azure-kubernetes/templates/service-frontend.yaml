@@ -2,12 +2,16 @@ apiVersion: v1
 kind: Service
 metadata:
   name: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
+  namespace: {{ .Values.namespace }}
 spec:
   selector:
     app: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
   ports:
+    # port: 80 = convention HTTP standard pour Services exposés via Ingress
+    # targetPort: 5173 = port réel app
+    # Tu pourrais mettre 5173/5173 et ça marcherait, mais 80/5173 c'est plus propre et standard.
     - protocol: TCP
-      port: 80
-      targetPort: 5173
-  type: NodePort
+      port: {{ .Values.ports.ingress }}
+      targetPort: {{ .Values.ports.frontend }}
+  type: ClusterIP
   

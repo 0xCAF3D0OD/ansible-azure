@@ -32,6 +32,7 @@ ports:
   frontend: 5173
   postgres: 5432
   redis: 6379
+  ingress: 80
 
 # =====================
 # IMAGES

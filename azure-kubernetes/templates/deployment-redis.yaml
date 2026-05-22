@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: edu-redis
+  name: "{{ .Values.app.name }}-{{ .Values.deployments.redis }}"
   namespace: {{ .Values.namespace }}
   labels:
     app: "{{ .Values.app.name }}-{{ .Values.services.redis }}"
@@ -30,6 +30,4 @@ spec:
 
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
-
-      restartPolicy: Always
       

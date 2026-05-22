@@ -9,10 +9,18 @@ spec:
   rules:
     - http:
         paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
+                port:
+                  number: {{ .Values.ports.ingress }}
+
           - path: /api
             pathType: Prefix
             backend:
               service:
-                name: "{{ .Values.app.name }}-ingress"
+                name: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
                 port:
-                  number: 80
+                  number: {{ .Values.ports.ingress }}

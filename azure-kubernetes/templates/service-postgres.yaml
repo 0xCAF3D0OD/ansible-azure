@@ -2,12 +2,13 @@ apiVersion: v1
 kind: Service
 metadata:
   name: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
+  namespace: {{ .Values.namespace }}
 spec:
   selector:
     app: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
   ports:
     - protocol: TCP
-      port: 80
-      targetPort: 5432
-  type: NodePort
+      port: {{ .Values.ports.postgres }}
+      targetPort: {{ .Values.ports.postgres }}
+  type: ClusterIP
   
