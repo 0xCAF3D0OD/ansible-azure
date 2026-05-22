@@ -11,7 +11,7 @@ data:
   VUEJS_PORT: "{{ .Values.ports.frontend }}"
 
   # Backend
-  FASTAPI_HOST: "{{ .Values.app.name }}-{{ .Values.deployments.backend }}"
+  FASTAPI_HOST: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
   FASTAPI_PORT: "{{ .Values.ports.backend }}"
 
   # Redis
