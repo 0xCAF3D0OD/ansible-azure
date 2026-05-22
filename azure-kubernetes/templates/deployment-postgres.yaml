@@ -2,36 +2,33 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: postgres-deployment
-  namespace: dev
+  namespace: {{ .Values.namespace }}
   labels:
-    app: &appName postgres
+    app: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
 spec:
-  replicas: 1
+  replicas: {{ .Values.replicas.postgres }}
   # - PostgreSQL n'est pas conçu pour scaler horizontalement.
   # - Lancer 2 replicas qui écrivent sur le même volume = corruption de données.
   selector:
     matchLabels:
-      app: *appName
+      app: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
   template:
     metadata:
       labels:
-        app: *appName
+        app: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
     spec:
       containers:
-        - name: *appName
-          image: ghcr.io/0xcaf3d0od/edu-database:sha256-de7c83833408670e87209ac84e207a4cc0a0ad37108a5f05d134b76740eaffb3
+        - name: "{{ .Values.app.name }}-{{ .Values.services.postgres }}"
+          image: "{{ .Values.images.postgres }}"
           ports:
-            - containerPort: 5432
+            - containerPort: {{ .Values.ports.postgres }}
+              protocol: TCP
           envFrom:
             - configMapRef:
-                name: educhat-config
+                name: "{{ .Values.config.app.configMap }}"
             - secretRef:
-                name: educhat-secret
+                name: "{{ .Values.config.app.secrets }}"
+
           resources:
-            requests:
-              memory: "128Mi"
-              cpu: "100m"
-            limits:
-              memory: "256Mi"
-              cpu: "500m"
+            {{- toYaml .Values.resources | nindent 12 }}
 

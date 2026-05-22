@@ -1,24 +1,24 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: educhat-config
-  namespace: dev
+  name: "{{ .Values.config.app.configMap }}"
+  namespace: {{ .Values.namespace }}
 data:
   # Frontend
-  VUEJS_PORT: "5173"
+  VUEJS_PORT: "{{ .Values.ports.frontend }}"
 
   # Backend
-  FASTAPI_HOST: "edu-fastapi-host"
-  FASTAPI_PORT: "8000"
+  FASTAPI_HOST: "{{ .Values.services.backend }}"
+  FASTAPI_PORT: "{{ .Values.ports.backend }}"
 
   # Redis
-  REDIS_HOST: "edu-redis-host"
-  REDIS_PORT: "6379"
+  REDIS_HOST: "{{ .Values.services.redis }}"
+  REDIS_PORT: "{{ .Values.ports.redis }}"
 
   # PostgreSQL
-  POSTGRES_HOST: "edu-pg-host"
-  POSTGRES_DB: "educhat_db"
-  POSTGRES_PORT: "5432"
+  POSTGRES_HOST: "{{ .Values.services.postgres }}"
+  POSTGRES_DB: "{{ .Values.config.postgres }}"
+  POSTGRES_PORT: "{{ .Values.ports.postgres }}"
 
-  PLAYWRIGHT_REDIS_HOST: "edu-redis-host"
-  PLAYWRIGHT_PG_HOST: "edu-pg-host"
+  PLAYWRIGHT_REDIS_HOST: "{{ .Values.services.redis }}"
+  PLAYWRIGHT_POSTGRES_HOST: "{{ .Values.services.postgres }}"

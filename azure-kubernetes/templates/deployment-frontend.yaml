@@ -2,33 +2,30 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: frontend-deployment
-  namespace: dev
+  namespace: {{ .Values.namespace }}
   labels:
-    app: &appName Vue-vite
+    app: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
 spec:
-  replicas: 1
+  replicas: {{ .Values.replicas.frontend }}
   selector:
     matchLabels:
-      app: *appName
+      app: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
   template:
     metadata:
       labels:
-        app: *appName
+        app: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
     spec:
       containers:
-        - name: *appName
-          image: ghcr.io/0xcaf3d0od/edu-frontend:sha256-2b0848044acc83fd934409a02b7bd96cf579073a7053546d298585135d8063bc
+        - name: "{{ .Values.app.name }}-{{ .Values.services.frontend }}"
+          image: "{{ .Values.images.frontend }}"
           ports:
-            - containerPort: 5173
+            - containerPort: {{ .Values.ports.frontend }}
+              protocol: TCP
           envFrom:
             - configMapRef:
-                name: educhat-config
+                name: "{{ .Values.config.app.configMap }}"
             - secretRef:
-                name: educhat-secret
+                name: "{{ .Values.config.app.secrets }}"
+
           resources:
-            requests:
-              memory: "128Mi"
-              cpu: "100m"
-            limits:
-              memory: "256Mi"
-              cpu: "500m"
+            {{- toYaml .Values.resources | nindent 12 }}

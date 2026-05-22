@@ -2,34 +2,30 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: backend-deployment
-  namespace: dev
+  namespace: {{ .Values.namespace }}
   labels:
-    app: &appName fastapi
+    app: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
 spec:
-  replicas: 2
+  replicas: {{ .Values.replicas.backend }}
   selector:
     matchLabels:
-      app: *appName
+      app: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
   template:
     metadata:
       labels:
-        app: *appName
+        app: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
     spec:
       containers:
-        - name: *appName
-          image: ghcr.io/0xcaf3d0od/edu-backend:sha256-32ce3795f74637f2e88bd9dfa1cf5dec78ee090bdf0f0446309e424f6b20c4d4
+        - name: "{{ .Values.app.name }}-{{ .Values.services.backend }}"
+          image: "{{ .Values.images.backend }}"
           ports:
-            - containerPort: 8000
+            - containerPort: {{ .Values.ports.backend }}
               protocol: TCP
           envFrom:
             - configMapRef:
-                name: educhat-config
+                name: "{{ .Values.config.app.configMap }}"
             - secretRef:
-                name: educhat-secret
+                name: "{{ .Values.config.app.secrets }}"
+
           resources:
-            requests:
-              memory: "128Mi"
-              cpu: "100m"
-            limits:
-              memory: "256Mi"
-              cpu: "500m"
+            {{- toYaml .Values.resources | nindent 12 }}

@@ -1,7 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: edu-ingress
+  name: "{{ .Values.app.name }}-ingress"
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
@@ -13,6 +13,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: edu-ingress
+                name: "{{ .Values.app.name }}-ingress"
                 port:
                   number: 80

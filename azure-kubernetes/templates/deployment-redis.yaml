@@ -2,38 +2,34 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: edu-redis
-  namespace: dev
+  namespace: {{ .Values.namespace }}
   labels:
-    app: &appName redis
+    app: "{{ .Values.app.name }}-{{ .Values.services.redis }}"
 spec:
-  replicas: 2
+  replicas: {{ .Values.replicas.redis }}
   selector:
     matchLabels:
-      app: *appName
+      app: "{{ .Values.app.name }}-{{ .Values.services.redis }}"
   template:
     metadata:
-      name: *appName
       labels:
-        app: *appName
+        app: "{{ .Values.app.name }}-{{ .Values.services.redis }}"
     spec:
       containers:
-        - name: *appName
-          image: redis/redis-stack-server:latest
+        - name: "{{ .Values.app.name }}-{{ .Values.services.redis }}"
+          image: "{{ .Values.images.redis }}"
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 6379
+            - containerPort: {{ .Values.ports.redis }}
               protocol: TCP
           envFrom:
             - configMapRef:
-                name: educhat-config
+                name: "{{ .Values.config.app.configMap }}"
             - secretRef:
-                name: educhat-secret
+                name: "{{ .Values.config.app.secrets }}"
+
           resources:
-            requests:
-              memory: "128Mi"
-              cpu: "100m"
-            limits:
-              memory: "256Mi"
-              cpu: "500m"
+            {{- toYaml .Values.resources | nindent 12 }}
+
       restartPolicy: Always
       
