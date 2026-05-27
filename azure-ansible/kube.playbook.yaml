@@ -1,0 +1,14 @@
+# https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-playbook/#:~:text=Les%20cl%C3%A9s%20essentielles%20d%27un%20play%20%3A
+- name: Install K3S in VM's
+  hosts: all
+  become: true
+
+  roles:
+    - geerlingguy.kubernetes
+
+  tasks:
+    - name: Ensure kubernetes is installed
+      ansible.builtin.service:
+        name: kubernetes
+        state: started
+        enable: yes
