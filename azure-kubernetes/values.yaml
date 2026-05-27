@@ -41,7 +41,7 @@ images:
   backend: ghcr.io/0xcaf3d0od/edu-backend:latest
   frontend: ghcr.io/0xcaf3d0od/edu-frontend:latest
   postgres: ghcr.io/0xcaf3d0od/edu-database:latest
-  redis: redis/redis-stack-server:latest
+  redis: redis:latest
 
 # =====================
 # REPLICAS

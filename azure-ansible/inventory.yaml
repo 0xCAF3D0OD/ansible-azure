@@ -1,9 +1,9 @@
 all:
   hosts:
     vm-1:
-      ansible_host: 20.160.158.48
+      ansible_host: 4.155.235.16
     vm-2:
-      ansible_host: 20.71.116.56
+      ansible_host: 20.9.170.184
 
   vars:
     ansible_become: yes
