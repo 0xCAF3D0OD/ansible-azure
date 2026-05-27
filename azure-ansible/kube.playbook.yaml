@@ -4,11 +4,11 @@
   become: true
 
   roles:
-    - geerlingguy.kubernetes
+    - k3s-io/k3s-ansible
 
   tasks:
     - name: Ensure kubernetes is installed
       ansible.builtin.service:
         name: kubernetes
         state: started
-        enable: yes
+        enabled: yes

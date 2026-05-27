@@ -3,7 +3,7 @@ terraform {
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
-      version = "=4.1.0"
+      version = "~> 3.0.2"
     }
   }
 
@@ -11,13 +11,10 @@ terraform {
 }
 
 provider "azurerm" {
-  subscription_id = var.subscription_id
-  resource_provider_registrations = "none"
   features {}
 }
 
-# Resource Group
 resource "azurerm_resource_group" "rg" {
   name     = "myTFResourceGroup"
-  location = var.location
+  location = "westus2"
 }
