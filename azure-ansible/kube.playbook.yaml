@@ -45,20 +45,4 @@
         dest: "/home/adminuser/"
         mode: '0644'
       loop:
-        - ../azure-kubernetes/templates/
-
-    - name: Copy secrets files in VM
-      ansible.builtin.copy:
-        src: "{{ item }}"
-        dest: "/home/adminuser/"
-        mode: '0644'
-      loop:
-        - ../azure-kubernetes/values.yaml
-        -
-    - name: Copy charts files in VM
-      ansible.builtin.copy:
-        src: "{{ item }}"
-        dest: "/home/adminuser/"
-        mode: '0644'
-      loop:
-        - ../azure-kubernetes/Chart.yaml
+        - ../azure-kubernetes/
