@@ -2,6 +2,7 @@
 # GLOBAL
 # =====================
 namespace: dev
+
 app:
   name: edu
 
