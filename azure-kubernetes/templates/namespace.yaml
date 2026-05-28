@@ -1,9 +1,0 @@
-# Source - https://stackoverflow.com/a/66288397
-# Posted by mdaniel
-# Retrieved 2026-05-27, License - CC BY-SA 4.0
-
-# templates/00namespace.yaml
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: {{ .Values.namespace }}

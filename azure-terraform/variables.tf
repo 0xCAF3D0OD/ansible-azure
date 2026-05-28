@@ -1,7 +1,7 @@
 variable "location" {
   description = "Azure region"
   type        = string
-  default     = "West US 2"
+  default     = "West Europe"
 }
 
 variable "environment" {
@@ -26,21 +26,4 @@ variable "pub_key" {
   description = "Public key for accessing ssh"
   type        = string
   default     = "~/.ssh/azure_ssh_key.pub"
-}
-
-variable "subscription_id" {
-  description = "Subscription ID azure User"
-  type = string
-}
-
-variable "client_id" {
-  type = string
-}
-
-variable "client_secret" {
-  type = string
-}
-
-variable "tenant_id" {
-  type = string
 }
