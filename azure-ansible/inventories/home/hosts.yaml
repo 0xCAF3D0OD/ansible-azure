@@ -1,0 +1,29 @@
+---
+all:
+  children:
+    home:
+      children:
+        k3s:
+          children:
+            k3s_master:
+              hosts:
+                master.lab.example.com:
+                  ansible_host: 4.155.235.16
+                  k3s_cluster_init: true
+                  k3s_kubelet_args:
+                    - "max-pods=110"
+            k3s_workers:
+              hosts:
+                worker-01.lab.example.com:
+                  ansible_host: 20.9.170.184
+                  k3s_server_url: "https://4.155.235.16:6443"
+                  k3s_kubelet_args:
+                    - "max-pods=45"
+      vars:
+        ansible_become: yes
+        ansible_port: 22
+        ansible_user: adminuser
+        ansible_ssh_private_key_file: ~/.ssh/azure_ssh_key.pem
+        ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+
+        env: home
