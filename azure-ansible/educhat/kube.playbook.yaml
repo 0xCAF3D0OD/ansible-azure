@@ -85,6 +85,13 @@
   hosts: k3s_master
   become: true
   tasks:
+    - name: Create dev namespace
+      ansible.builtin.command:
+        cmd: kubectl create namespace dev
+      environment:
+        KUBECONFIG: /etc/rancher/k3s/k3s.yaml
+      failed_when: false
+      changed_when: false
     # (les métadonnées de la release).
     # Sans --namespace, Helm stocke ses métadonnées dans default même si tes pods sont dans dev.
     # --create-namespace est utile si dev n'existe pas encore
@@ -93,7 +100,6 @@
         cmd: >
           helm upgrade --install educhat /home/adminuser/azure-kubernetes
           --namespace dev
-          --create-namespace
           --values /home/adminuser/azure-kubernetes/values.yaml
           --values /home/adminuser/azure-kubernetes/values.secret.yaml
       environment:

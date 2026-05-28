@@ -7,6 +7,12 @@ app:
   name: edu
 
 # =====================
+# INGRESS
+# =====================
+ingress:
+  className: traefik
+
+# =====================
 # DEPLOYMENT NAMES
 # =====================
 deployments:
